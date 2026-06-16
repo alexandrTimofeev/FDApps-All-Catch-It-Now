@@ -1,0 +1,1023 @@
+fileFormatVersion: 2
+guid: ef6c9e2aa5da0ad4bab22621e6a2a3cd
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1511
+        width: 820
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3427c6ae0b589fa46806fb28a5285d73
+      internalID: 479750483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_2
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 1159
+        width: 962
+        height: 716
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 474, y: 355, z: 488, w: 361}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955d5c4d618f6af47899a37626a42a56
+      internalID: 1005094738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1394
+        width: 821
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bfa093e4026d94b9ac2dbf27657473
+      internalID: -1062072648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1277
+        width: 814
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dd336ac8080bd42a2a265c364710bd
+      internalID: 754895701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1159
+        width: 814
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b39c91ba21d9984bb272e576957c89f
+      internalID: 1551471551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_16
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 879
+        width: 625
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e1c110cfbaa594a8b1af1f347ee470
+      internalID: -439222430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_18
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 888
+        width: 563
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c531491474ef9a49b045c060e21496f
+      internalID: 917218499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_19
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 879
+        width: 548
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48139d844c96f64479a5a1f2ec4b0b54
+      internalID: -64040011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_26
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 621
+        width: 183
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4445d4d7663ac428c55d618ad66e74
+      internalID: -1614540644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_27
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 621
+        width: 177
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ffab03028a4f24dadf140b78d308b3
+      internalID: 88835197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_28
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 621
+        width: 174
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd78d1e7e0412841b8c8e8592ed7f89
+      internalID: -1170615863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_29
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 621
+        width: 189
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d695358f0c4d96f4dbceb86db11aff49
+      internalID: -1362563981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_31
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 621
+        width: 189
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24a6efafcf5dc75418f39f86ce80eb44
+      internalID: 115538767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_32
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 621
+        width: 182
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7939b568cb6a73146963aa4c0da86bca
+      internalID: -108808503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_33
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 621
+        width: 188
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4bd3f05c479e04292f39dcdde9d6d5
+      internalID: 170419104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_34
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 621
+        width: 177
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9c8b129ba153c4ebea0dc260d473c9
+      internalID: -899295578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_35
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 621
+        width: 176
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902f4baca3f16a84698e955e98ce3206
+      internalID: 1479645336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_49
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 375
+        width: 194
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8789c3412b7c43c4cb6ff993e6768fe1
+      internalID: 10699752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_51
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 376
+        width: 185
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fe58a9cd5282f498028a2aaa4244d5
+      internalID: -1261729500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_52
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 376
+        width: 189
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0429beb8799f9a140bb8fe63135ee9c2
+      internalID: 1100112046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_53
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 375
+        width: 184
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c65c1dc48ce50d4782ee6a2396ab56a
+      internalID: -1447932387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_54
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 376
+        width: 184
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0cb46b1a1d7a547b83f17481f17d6a
+      internalID: 404335412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_55
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 376
+        width: 188
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6273832460c7ee64b9bb68954316c247
+      internalID: 1526573699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_56
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 376
+        width: 187
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daeda6472b11b364cbc1a00cbc8e2f5d
+      internalID: -2142792724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_57
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 376
+        width: 192
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a27984f69ed1441b0ce139e722fdc3
+      internalID: -1534082284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_58
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 374
+        width: 184
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3fb842c0dbd974e8ac054aa7a121d6
+      internalID: 348048394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_78
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 119
+        width: 211
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ce42dca8f170345b1447ed8bfe0399
+      internalID: 768742546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_79
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 117
+        width: 209
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd27ff14d56282468024cb95664fc5b
+      internalID: 992098490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_80
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 117
+        width: 168
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d53c38e16a8cc4aa45fcfb9169ad63
+      internalID: -329281170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_81
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 117
+        width: 166
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5cc86452c8a4d478d150a68b8ed419
+      internalID: -384437625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_82
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 130
+        width: 158
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 747f3bc7574390846bb1c95f5ac06ca8
+      internalID: -814639867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_83
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 136
+        width: 161
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8c83cbf741d374f94a52fed0ae0763
+      internalID: -1318954575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_84
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 128
+        width: 584
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe82d8c5afbe7e841a708b99d013c107
+      internalID: -308416679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_0
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1626
+        width: 820
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3beac6583be80b49bde4162cbd24f67
+      internalID: -418294254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_3
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1741
+        width: 820
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de635888cb23374a8c0ef2e0a543d88
+      internalID: -1169317278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 32a9a764d88ef0c43a6ce132dabe7bf0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_0: -418294254
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_1: 479750483
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_10: 444508400
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_11: -593631862
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_12: -190602353
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_13: 483786537
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_14: -532502690
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_15: 1516355531
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_16: -439222430
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_17: -1893192657
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_18: 917218499
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_19: -64040011
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_2: 1005094738
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_20: -1973775904
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_21: -2089715136
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_22: 1742839703
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_23: -1305307178
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_24: 734272861
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_25: -1983124477
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_26: -1614540644
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_27: 88835197
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_28: -1170615863
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_29: -1362563981
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_3: -1169317278
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_30: -223766325
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_31: 115538767
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_32: -108808503
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_33: 170419104
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_34: -899295578
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_35: 1479645336
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_36: 245431924
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_37: 400032241
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_38: -133420961
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_39: 1533153301
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_4: -1365646566
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_40: 140293788
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_41: -2031128808
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_42: 388321701
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_43: -2011116169
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_44: -530209430
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_45: 1890962521
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_46: -521339113
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_47: 1469373582
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_48: 244203915
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_49: 10699752
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_5: -1062072648
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_50: -861573980
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_51: -1261729500
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_52: 1100112046
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_53: -1447932387
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_54: 404335412
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_55: 1526573699
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_56: -2142792724
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_57: -1534082284
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_58: 348048394
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_59: -317224543
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_6: 754895701
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_60: 571112296
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_61: 440904490
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_62: -1092755459
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_63: 420353452
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_64: -1964685463
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_65: -1137051224
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_66: 772600878
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_67: 1669467777
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_68: 63558470
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_69: -613510249
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_7: 1551471551
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_70: 1754077705
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_71: -352064944
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_72: -1268063431
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_73: -730191879
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_74: 1980900858
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_75: -1906330233
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_76: -309337461
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_77: 931133611
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_78: 768742546
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_79: 992098490
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_8: -1430273972
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_80: -329281170
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_81: -384437625
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_82: -814639867
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_83: -1318954575
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_84: -308416679
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_85: 1286003461
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_86: 1809585541
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_87: -1700545104
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_88: 1310015984
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_89: -385598634
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_9: -404635829
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_90: -1004146205
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_91: 449546442
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_92: -32482784
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_93: 1116530706
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_94: 1744428897
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_95: -1314300712
+      buttons-from-wooden-boards-with-green-ui-game-vector-cartoon-set-brown-banners-emerald-menu-buttons-wood-frame-arrows-progress-bar-mobile-game-isolated-white-background_96: 773453628
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
