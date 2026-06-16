@@ -2,7 +2,6 @@ using UnityEngine;
 using ECM.Walkthrough.CustomInput;
 using System.Threading.Tasks;
 using System.Collections;
-using UnityEditor.Media;
 
 public class UpgradesTrigger : MonoBehaviour
 {
