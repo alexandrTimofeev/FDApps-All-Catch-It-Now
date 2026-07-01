@@ -1,9 +1,7 @@
 ﻿using DG.Tweening;
 using ECM.Controllers;
-using System;
 using System.Threading.Tasks;
 using UnityEngine;
-using static UnityEditor.PlayerSettings;
 
 public interface ICameraPursued
 {
