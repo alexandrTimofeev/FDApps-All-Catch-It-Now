@@ -1,8 +1,9 @@
-﻿using ECM.Controllers;
+﻿using DG.Tweening;
+using ECM.Controllers;
 using System;
 using System.Threading.Tasks;
 using UnityEngine;
-using DG.Tweening;
+using static UnityEditor.PlayerSettings;
 
 public interface ICameraPursued
 {
@@ -25,7 +26,7 @@ namespace ECM.Walkthrough.CustomInput
     {
         [SerializeField] private float _maxAngleForMovement = 15;
         [SerializeField] private Transform _transformForFollowingWhenMove;
-        [SerializeField] private Joystick _joystick;
+        //[SerializeField] private Joystick _joystick;
 
         private bool _rotationCompleted;
         private bool _parking;
@@ -94,11 +95,13 @@ namespace ECM.Walkthrough.CustomInput
             if (Parking)
                 return;
 
+            Vector3 accs = AccelerometrDetector.GetLocalDirection(Camera.main.transform, 0.1f);
+
             moveDirection = new Vector3
             {
-                x = -_joystick.Vertical,
+                x = accs.x * 4f,
                 y = 0.0f,
-                z = _joystick.Horizontal
+                z = -accs.z * 2f,
             };
         }
     }
